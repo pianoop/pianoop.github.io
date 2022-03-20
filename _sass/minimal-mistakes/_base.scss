@@ -12,7 +12,7 @@ body {
   margin: 0;
   padding: 0;
   color: $text-color;
-  font-family: $serif;
+  font-family: $cute;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -29,7 +29,7 @@ h5,
 h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: $header-font-family;
+  font-family: $cute;
   font-weight: bold;
 }
 
@@ -153,7 +153,7 @@ code,
 kbd,
 samp,
 pre {
-  font-family: $monospace;
+  font-family: $cute;
 }
 
 pre {
@@ -264,7 +264,7 @@ figure {
 figcaption {
   margin-bottom: 0.5em;
   color: $muted-text-color;
-  font-family: $caption-font-family;
+  font-family: $cute;
   font-size: $type-size-6;
 
   a {
